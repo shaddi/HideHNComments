@@ -1,11 +1,10 @@
 HideHNComments
 ==============
 
-Comments on Hacker News are awful. Seriously, it's a fucking cesspool.
-
-Sometimes there are interesting stories though. This is a Chrome extension to
-just hide everything that has to do with comments on the site. It makes it
-better.
+Comments on Hacker News can be pretty distracting, and sometimes just plain
+vitriolic. This is a Chrome extension to hide everything that has to do with
+comments on the site. Hopefully it will help you focus on content and not get
+wrapped up in Internet debates.
 
 Installation
 ------------
