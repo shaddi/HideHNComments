@@ -1,0 +1,13 @@
+{
+    "manifest_version": 2,
+    "name": "HideHNComments",
+    "version": "0.1",
+    "description": "HN comments are a cesspool. Hide that shit.",
+    "content_scripts": [
+        {
+        "matches": ["http://news.ycombinator.com/*","https://news.ycombinator.com/*"],
+        "js": ["jquery.js", "hide.js"]
+        }
+    ]
+}
+
