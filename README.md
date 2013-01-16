@@ -7,6 +7,11 @@ Sometimes there are interesting stories though. This is a Chrome extension to
 just hide everything that has to do with comments on the site. It makes it
 better.
 
+Installation
+------------
+The extension is available in the [Chrome Web Store](https://chrome.google.com/webstore/detail/hidehncomments/bepfcpfcgnlnnkkcdnefflglaeggcdbn).
+
+
 Copyright and Contact
 -------------------------------
 
