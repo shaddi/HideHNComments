@@ -11,6 +11,7 @@ $(function(){
         $('img[src*="gray"]').remove();
         $('a[href*="reply"]').remove();
         $('form[action$="/r"]').remove();
+        $(".votearrow").remove();
     }
     $('a[href*="item"]').remove(":contains('comment')");
     $('a[href*="item"]').remove(":contains('discuss')");
